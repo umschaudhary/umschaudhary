@@ -1,12 +1,9 @@
-# Hello Fellow Geeks!
-
-I am Umesh Chaudhary, a Software Engineer, a dreamer and a lifetime learner.
+# Hello Github!
 
 
+I'm Umesh. A Fullstack Software Engineer from Nepal.
 
-## Connect with Me :
-<a href="https://linkedin.com/in/umschaudhary">LinkedIn</a>
-<a href="https://twitter.com/iamumess">Twitter</a>
+Connect with me on <a href="https://linkedin.com/in/umschaudhary">LinkedIn</a> and <a href="https://twitter.com/iamumess">Twitter</a>
 
 ![Dino](https://raw.githubusercontent.com/umschaudhary/umschaudhary/master/dino.gif)
 

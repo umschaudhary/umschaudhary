@@ -1,1 +1,2 @@
-Full-Stack Software Engineer | BlockChain Enthusiastic (Ethereum)
+Full-Stack Software Engineer | 
+Passionately Learning BlockChain (Ethereum)

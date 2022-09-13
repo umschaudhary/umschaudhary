@@ -4,5 +4,4 @@ Full-Stack Software Engineer
 - Mobile : React Native
 - Devops: AWS, Digital Ocean, GCP
 
-Blockchain :
-- Ethereum Chain: Solidity, Hardhat, Alchemy
+<pre><strong><a href="https://uchaudhary.com.np">~/umschaudhary</a></strong> / <a href="https://uchaudhary.com.np/blog">blog</a> / <a href="https://uchaudhary.com.np/about">about</a>

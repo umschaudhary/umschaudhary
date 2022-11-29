@@ -1,4 +1,4 @@
-Full-Stack Software Engineer 
+Software Engineer with following skillset : 
 - Backend: Python/Django/FastAPI, Node.js/Nest.js, Golang/Gin, Ruby/ROR
 - Frontend: React.js/Next.js
 - Mobile : React Native

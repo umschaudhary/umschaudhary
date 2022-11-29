@@ -4,4 +4,5 @@ Full-Stack Software Engineer
 - Mobile : React Native
 - Devops: AWS, Digital Ocean, GCP
 
-<pre><strong><a href="https://uchaudhary.com.np">~/umschaudhary</a></strong> / <a href="https://uchaudhary.com.np/blog">blog</a> / <a href="https://uchaudhary.com.np/about">about</a>
+<pre><strong><a href="https://uchaudhary.com.np">~/umschaudhary</a></strong> / <a href="https://uchaudhary.com.np/blog">blog</a> / <a href="https://uchaudhary.com.np/about">about</a> / <a href="https://linkedin.com/in/umschaudhary">linkedin</a>
+
